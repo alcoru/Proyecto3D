@@ -1,5 +1,7 @@
 Assets/Audio/FMOD/SONIDOS/* filter=lfs diff=lfs merge=lfs -text
 Assets/Audio/FMOD/Assets/* filter=lfs diff=lfs merge=lfs -text
+*/Nivel1/LightingData.asset filter=lfs diff=lfs merge=lfs -text
+*/Nivel2/LightingData.asset filter=lfs diff=lfs merge=lfs -text
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.csproj filter=lfs diff=lfs merge=lfs -text
 *.meta filter=lfs diff=lfs merge=lfs -text
